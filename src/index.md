@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Welcome to Anna Home
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
