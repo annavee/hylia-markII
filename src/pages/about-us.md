@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: About Us
-permalink: aboutus
+permalink: about-us
 ---
 blah blah blah
