@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: About Us
-permalink: 'https://friendly-goldstine-5f027d.netlify.com/aboutus'
+permalink: aboutus
 ---
 blah blah blah
